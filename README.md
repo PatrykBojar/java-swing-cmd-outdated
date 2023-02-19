@@ -17,7 +17,7 @@ An enhanced command-line graphic interpreter made with Swing.
 * <strike>Method to compare two text files and show their differences</strike>
 * <strike>Help and exit commands</strike>
 
-## Build with
+## Built with
 
 * Java
 * Eclipse
